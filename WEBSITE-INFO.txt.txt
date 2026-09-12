@@ -1,0 +1,28 @@
+DOMAIN:
+www.GoodsTransport.ca
+
+BUSINESS NAME:
+Goods Transport
+
+PHONE:
+438-403-6023
+
+EMAIL:
+ram.goods1313@gmail.com
+
+HEADER LOGO:
+logo-header.png
+
+HERO / TRUCK LOGO:
+hero-truck.jpg
+
+GALLERY IMAGES:
+truck-01
+truck-02
+truck-03
+
+VIDEOS:
+video-01.mp4
+
+DESIGN REFERENCE:
+reference/website-reference.png
